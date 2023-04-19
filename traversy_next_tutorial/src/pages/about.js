@@ -7,7 +7,7 @@ const About = () => {
             <title>About</title>
             <meta />
         </Head>
-      <h1>about</h1>
+      <h1>About</h1>
     </div>
   );
 };
